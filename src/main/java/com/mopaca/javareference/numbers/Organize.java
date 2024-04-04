@@ -11,8 +11,6 @@ public class Organize {
         arr2.add(1);
         arr2.add(4);
         arr2.add(2);
-        arr2.add(9);
-        arr2.add(6);
         test(arr2);
     }
 
